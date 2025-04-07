@@ -1,6 +1,7 @@
 # 💫 About Me:
 Oi eu sou Alana
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alanaala&color=blue" alt="kleberson154" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_alanamoreiraa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alanaMoreira07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alanamf07@gmail.com) 
